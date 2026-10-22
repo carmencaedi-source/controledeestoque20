@@ -1,0 +1,6 @@
+{
+  "name": "PlanoPME ERP - Gestão e Planejamento de Produção",
+  "description": "Sistema ERP intuitivo e persistente para planejamento de operações, controle de fichas técnicas, matérias-primas, capacidade produtiva e ordens de produção em pequenas empresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
